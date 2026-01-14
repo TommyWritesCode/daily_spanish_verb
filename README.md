@@ -33,8 +33,8 @@ Each email includes:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/spring_spanish.git
-   cd spring_spanish
+   git clone https://github.com/TommyWritesCode/daily_spanish_verb.git
+   cd daily_spanish_verb
    ```
 
 2. **Run the setup wizard**
@@ -329,7 +329,7 @@ MIT License - feel free to use and modify for your own learning!
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/spring_spanish/issues)
+- **Issues**: [GitHub Issues](https://github.com/TommyWritesCode/daily_spanish_verb/issues)
 - **Questions**: Check the troubleshooting section above
 - **Feature Requests**: Open an issue with your idea!
 
