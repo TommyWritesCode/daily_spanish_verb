@@ -1,0 +1,1084 @@
+{
+  "verbs": [
+    {
+      "id": 1,
+      "spanish": "hablar",
+      "english": "to speak",
+      "conjugation": "hablo, hablas, habla, hablamos, habláis, hablan",
+      "example": "Yo hablo español todos los días.",
+      "example_en": "I speak Spanish every day.",
+      "difficulty": 1
+    },
+    {
+      "id": 2,
+      "spanish": "llamar",
+      "english": "to call",
+      "conjugation": "llamo, llamas, llama, llamamos, llamáis, llaman",
+      "example": "Te llamo mañana por la mañana.",
+      "example_en": "I'll call you tomorrow morning.",
+      "difficulty": 1
+    },
+    {
+      "id": 3,
+      "spanish": "trabajar",
+      "english": "to work",
+      "conjugation": "trabajo, trabajas, trabaja, trabajamos, trabajáis, trabajan",
+      "example": "Ella trabaja en un hospital.",
+      "example_en": "She works in a hospital.",
+      "difficulty": 1
+    },
+    {
+      "id": 4,
+      "spanish": "estudiar",
+      "english": "to study",
+      "conjugation": "estudio, estudias, estudia, estudiamos, estudiáis, estudian",
+      "example": "Nosotros estudiamos para el examen.",
+      "example_en": "We study for the exam.",
+      "difficulty": 1
+    },
+    {
+      "id": 5,
+      "spanish": "cantar",
+      "english": "to sing",
+      "conjugation": "canto, cantas, canta, cantamos, cantáis, cantan",
+      "example": "Mi hermana canta muy bien.",
+      "example_en": "My sister sings very well.",
+      "difficulty": 1
+    },
+    {
+      "id": 6,
+      "spanish": "bailar",
+      "english": "to dance",
+      "conjugation": "bailo, bailas, baila, bailamos, bailáis, bailan",
+      "example": "Ellos bailan salsa todos los viernes.",
+      "example_en": "They dance salsa every Friday.",
+      "difficulty": 1
+    },
+    {
+      "id": 7,
+      "spanish": "caminar",
+      "english": "to walk",
+      "conjugation": "camino, caminas, camina, caminamos, camináis, caminan",
+      "example": "Camino al trabajo cada día.",
+      "example_en": "I walk to work every day.",
+      "difficulty": 1
+    },
+    {
+      "id": 8,
+      "spanish": "esperar",
+      "english": "to wait / to hope",
+      "conjugation": "espero, esperas, espera, esperamos, esperáis, esperan",
+      "example": "Espero que tengas un buen día.",
+      "example_en": "I hope you have a good day.",
+      "difficulty": 1
+    },
+    {
+      "id": 9,
+      "spanish": "comprar",
+      "english": "to buy",
+      "conjugation": "compro, compras, compra, compramos, compráis, compran",
+      "example": "Compro pan fresco cada mañana.",
+      "example_en": "I buy fresh bread every morning.",
+      "difficulty": 1
+    },
+    {
+      "id": 10,
+      "spanish": "cocinar",
+      "english": "to cook",
+      "conjugation": "cocino, cocinas, cocina, cocinamos, cocináis, cocinan",
+      "example": "Mi padre cocina muy bien.",
+      "example_en": "My father cooks very well.",
+      "difficulty": 1
+    },
+    {
+      "id": 11,
+      "spanish": "ayudar",
+      "english": "to help",
+      "conjugation": "ayudo, ayudas, ayuda, ayudamos, ayudáis, ayudan",
+      "example": "Siempre ayudo a mis amigos.",
+      "example_en": "I always help my friends.",
+      "difficulty": 1
+    },
+    {
+      "id": 12,
+      "spanish": "viajar",
+      "english": "to travel",
+      "conjugation": "viajo, viajas, viaja, viajamos, viajáis, viajan",
+      "example": "Me encanta viajar por el mundo.",
+      "example_en": "I love to travel around the world.",
+      "difficulty": 1
+    },
+    {
+      "id": 13,
+      "spanish": "escuchar",
+      "english": "to listen",
+      "conjugation": "escucho, escuchas, escucha, escuchamos, escucháis, escuchan",
+      "example": "Escucho música mientras trabajo.",
+      "example_en": "I listen to music while I work.",
+      "difficulty": 1
+    },
+    {
+      "id": 14,
+      "spanish": "preguntar",
+      "english": "to ask",
+      "conjugation": "pregunto, preguntas, pregunta, preguntamos, preguntáis, preguntan",
+      "example": "Siempre pregunto cuando no entiendo.",
+      "example_en": "I always ask when I don't understand.",
+      "difficulty": 1
+    },
+    {
+      "id": 15,
+      "spanish": "contestar",
+      "english": "to answer",
+      "conjugation": "contesto, contestas, contesta, contestamos, contestáis, contestan",
+      "example": "Contesto el teléfono rápidamente.",
+      "example_en": "I answer the phone quickly.",
+      "difficulty": 1
+    },
+    {
+      "id": 16,
+      "spanish": "nadar",
+      "english": "to swim",
+      "conjugation": "nado, nadas, nada, nadamos, nadáis, nadan",
+      "example": "Nado en la piscina cada semana.",
+      "example_en": "I swim in the pool every week.",
+      "difficulty": 1
+    },
+    {
+      "id": 17,
+      "spanish": "desayunar",
+      "english": "to have breakfast",
+      "conjugation": "desayuno, desayunas, desayuna, desayunamos, desayunáis, desayunan",
+      "example": "Desayuno a las siete de la mañana.",
+      "example_en": "I have breakfast at seven in the morning.",
+      "difficulty": 1
+    },
+    {
+      "id": 18,
+      "spanish": "visitar",
+      "english": "to visit",
+      "conjugation": "visito, visitas, visita, visitamos, visitáis, visitan",
+      "example": "Visitamos a la abuela los domingos.",
+      "example_en": "We visit grandma on Sundays.",
+      "difficulty": 1
+    },
+    {
+      "id": 19,
+      "spanish": "mirar",
+      "english": "to look / to watch",
+      "conjugation": "miro, miras, mira, miramos, miráis, miran",
+      "example": "Miro televisión por la noche.",
+      "example_en": "I watch television at night.",
+      "difficulty": 1
+    },
+    {
+      "id": 20,
+      "spanish": "tomar",
+      "english": "to take / to drink",
+      "conjugation": "tomo, tomas, toma, tomamos, tomáis, toman",
+      "example": "Tomo café cada mañana.",
+      "example_en": "I drink coffee every morning.",
+      "difficulty": 1
+    },
+    {
+      "id": 21,
+      "spanish": "comer",
+      "english": "to eat",
+      "conjugation": "como, comes, come, comemos, coméis, comen",
+      "example": "Comemos juntos todos los días.",
+      "example_en": "We eat together every day.",
+      "difficulty": 1
+    },
+    {
+      "id": 22,
+      "spanish": "beber",
+      "english": "to drink",
+      "conjugation": "bebo, bebes, bebe, bebemos, bebéis, beben",
+      "example": "Bebo agua durante el día.",
+      "example_en": "I drink water during the day.",
+      "difficulty": 1
+    },
+    {
+      "id": 23,
+      "spanish": "leer",
+      "english": "to read",
+      "conjugation": "leo, lees, lee, leemos, leéis, leen",
+      "example": "Leo un libro cada mes.",
+      "example_en": "I read a book every month.",
+      "difficulty": 1
+    },
+    {
+      "id": 24,
+      "spanish": "correr",
+      "english": "to run",
+      "conjugation": "corro, corres, corre, corremos, corréis, corren",
+      "example": "Corro en el parque cada mañana.",
+      "example_en": "I run in the park every morning.",
+      "difficulty": 1
+    },
+    {
+      "id": 25,
+      "spanish": "vender",
+      "english": "to sell",
+      "conjugation": "vendo, vendes, vende, vendemos, vendéis, venden",
+      "example": "Ellos venden frutas en el mercado.",
+      "example_en": "They sell fruit in the market.",
+      "difficulty": 1
+    },
+    {
+      "id": 26,
+      "spanish": "aprender",
+      "english": "to learn",
+      "conjugation": "aprendo, aprendes, aprende, aprendemos, aprendéis, aprenden",
+      "example": "Aprendo español todos los días.",
+      "example_en": "I learn Spanish every day.",
+      "difficulty": 1
+    },
+    {
+      "id": 27,
+      "spanish": "comprender",
+      "english": "to understand",
+      "conjugation": "comprendo, comprendes, comprende, comprendemos, comprendéis, comprenden",
+      "example": "Comprendo la lección perfectamente.",
+      "example_en": "I understand the lesson perfectly.",
+      "difficulty": 1
+    },
+    {
+      "id": 28,
+      "spanish": "creer",
+      "english": "to believe",
+      "conjugation": "creo, crees, cree, creemos, creéis, creen",
+      "example": "Creo que tienes razón.",
+      "example_en": "I believe you are right.",
+      "difficulty": 1
+    },
+    {
+      "id": 29,
+      "spanish": "vivir",
+      "english": "to live",
+      "conjugation": "vivo, vives, vive, vivimos, vivís, viven",
+      "example": "Vivo en Madrid desde hace cinco años.",
+      "example_en": "I have lived in Madrid for five years.",
+      "difficulty": 1
+    },
+    {
+      "id": 30,
+      "spanish": "escribir",
+      "english": "to write",
+      "conjugation": "escribo, escribes, escribe, escribimos, escribís, escriben",
+      "example": "Escribo un diario cada noche.",
+      "example_en": "I write a diary every night.",
+      "difficulty": 1
+    },
+    {
+      "id": 31,
+      "spanish": "abrir",
+      "english": "to open",
+      "conjugation": "abro, abres, abre, abrimos, abrís, abren",
+      "example": "Abro la ventana para ventilación.",
+      "example_en": "I open the window for ventilation.",
+      "difficulty": 1
+    },
+    {
+      "id": 32,
+      "spanish": "recibir",
+      "english": "to receive",
+      "conjugation": "recibo, recibes, recibe, recibimos, recibís, reciben",
+      "example": "Recibo muchos mensajes cada día.",
+      "example_en": "I receive many messages every day.",
+      "difficulty": 1
+    },
+    {
+      "id": 33,
+      "spanish": "subir",
+      "english": "to go up / to climb",
+      "conjugation": "subo, subes, sube, subimos, subís, suben",
+      "example": "Subo las escaleras para hacer ejercicio.",
+      "example_en": "I climb the stairs for exercise.",
+      "difficulty": 1
+    },
+    {
+      "id": 34,
+      "spanish": "decidir",
+      "english": "to decide",
+      "conjugation": "decido, decides, decide, decidimos, decidís, deciden",
+      "example": "Decido viajar el próximo mes.",
+      "example_en": "I decide to travel next month.",
+      "difficulty": 1
+    },
+    {
+      "id": 35,
+      "spanish": "permitir",
+      "english": "to allow / to permit",
+      "conjugation": "permito, permites, permite, permitimos, permitís, permiten",
+      "example": "Mis padres permiten que salga con amigos.",
+      "example_en": "My parents allow me to go out with friends.",
+      "difficulty": 1
+    },
+    {
+      "id": 36,
+      "spanish": "necesitar",
+      "english": "to need",
+      "conjugation": "necesito, necesitas, necesita, necesitamos, necesitáis, necesitan",
+      "example": "Necesito dormir más horas.",
+      "example_en": "I need to sleep more hours.",
+      "difficulty": 1
+    },
+    {
+      "id": 37,
+      "spanish": "desear",
+      "english": "to wish / to desire",
+      "conjugation": "deseo, deseas, desea, deseamos, deseáis, desean",
+      "example": "Deseo verte pronto.",
+      "example_en": "I wish to see you soon.",
+      "difficulty": 1
+    },
+    {
+      "id": 38,
+      "spanish": "llegar",
+      "english": "to arrive",
+      "conjugation": "llego, llegas, llega, llegamos, llegáis, llegan",
+      "example": "Llego a casa a las seis.",
+      "example_en": "I arrive home at six.",
+      "difficulty": 1
+    },
+    {
+      "id": 39,
+      "spanish": "buscar",
+      "english": "to look for",
+      "conjugation": "busco, buscas, busca, buscamos, buscáis, buscan",
+      "example": "Busco mis llaves por toda la casa.",
+      "example_en": "I look for my keys all over the house.",
+      "difficulty": 1
+    },
+    {
+      "id": 40,
+      "spanish": "encontrar",
+      "english": "to find",
+      "conjugation": "encuentro, encuentras, encuentra, encontramos, encontráis, encuentran",
+      "example": "Siempre encuentro lo que busco.",
+      "example_en": "I always find what I'm looking for.",
+      "difficulty": 2
+    },
+    {
+      "id": 41,
+      "spanish": "pensar",
+      "english": "to think",
+      "conjugation": "pienso, piensas, piensa, pensamos, pensáis, piensan",
+      "example": "Pienso en ti todos los días.",
+      "example_en": "I think about you every day.",
+      "difficulty": 2
+    },
+    {
+      "id": 42,
+      "spanish": "querer",
+      "english": "to want / to love",
+      "conjugation": "quiero, quieres, quiere, queremos, queréis, quieren",
+      "example": "Quiero aprender a tocar la guitarra.",
+      "example_en": "I want to learn to play the guitar.",
+      "difficulty": 2
+    },
+    {
+      "id": 43,
+      "spanish": "poder",
+      "english": "to be able to / can",
+      "conjugation": "puedo, puedes, puede, podemos, podéis, pueden",
+      "example": "No puedo ir a la fiesta hoy.",
+      "example_en": "I can't go to the party today.",
+      "difficulty": 2
+    },
+    {
+      "id": 44,
+      "spanish": "empezar",
+      "english": "to begin",
+      "conjugation": "empiezo, empiezas, empieza, empezamos, empezáis, empiezan",
+      "example": "Empiezo a trabajar a las ocho.",
+      "example_en": "I start work at eight.",
+      "difficulty": 2
+    },
+    {
+      "id": 45,
+      "spanish": "cerrar",
+      "english": "to close",
+      "conjugation": "cierro, cierras, cierra, cerramos, cerráis, cierran",
+      "example": "Cierro la puerta con llave cada noche.",
+      "example_en": "I lock the door every night.",
+      "difficulty": 2
+    },
+    {
+      "id": 46,
+      "spanish": "entender",
+      "english": "to understand",
+      "conjugation": "entiendo, entiendes, entiende, entendemos, entendéis, entienden",
+      "example": "Entiendo todo lo que dices.",
+      "example_en": "I understand everything you say.",
+      "difficulty": 2
+    },
+    {
+      "id": 47,
+      "spanish": "perder",
+      "english": "to lose",
+      "conjugation": "pierdo, pierdes, pierde, perdemos, perdéis, pierden",
+      "example": "Siempre pierdo mis gafas.",
+      "example_en": "I always lose my glasses.",
+      "difficulty": 2
+    },
+    {
+      "id": 48,
+      "spanish": "volver",
+      "english": "to return",
+      "conjugation": "vuelvo, vuelves, vuelve, volvemos, volvéis, vuelven",
+      "example": "Vuelvo a casa después del trabajo.",
+      "example_en": "I return home after work.",
+      "difficulty": 2
+    },
+    {
+      "id": 49,
+      "spanish": "dormir",
+      "english": "to sleep",
+      "conjugation": "duermo, duermes, duerme, dormimos, dormís, duermen",
+      "example": "Duermo ocho horas cada noche.",
+      "example_en": "I sleep eight hours every night.",
+      "difficulty": 2
+    },
+    {
+      "id": 50,
+      "spanish": "sentir",
+      "english": "to feel",
+      "conjugation": "siento, sientes, siente, sentimos, sentís, sienten",
+      "example": "Siento mucho frío en invierno.",
+      "example_en": "I feel very cold in winter.",
+      "difficulty": 2
+    },
+    {
+      "id": 51,
+      "spanish": "preferir",
+      "english": "to prefer",
+      "conjugation": "prefiero, prefieres, prefiere, preferimos, preferís, prefieren",
+      "example": "Prefiero el café al té.",
+      "example_en": "I prefer coffee to tea.",
+      "difficulty": 2
+    },
+    {
+      "id": 52,
+      "spanish": "servir",
+      "english": "to serve",
+      "conjugation": "sirvo, sirves, sirve, servimos, servís, sirven",
+      "example": "Sirvo la cena a las ocho.",
+      "example_en": "I serve dinner at eight.",
+      "difficulty": 2
+    },
+    {
+      "id": 53,
+      "spanish": "pedir",
+      "english": "to ask for / to order",
+      "conjugation": "pido, pides, pide, pedimos, pedís, piden",
+      "example": "Pido un café con leche.",
+      "example_en": "I order a coffee with milk.",
+      "difficulty": 2
+    },
+    {
+      "id": 54,
+      "spanish": "repetir",
+      "english": "to repeat",
+      "conjugation": "repito, repites, repite, repetimos, repetís, repiten",
+      "example": "¿Puedes repetir la pregunta?",
+      "example_en": "Can you repeat the question?",
+      "difficulty": 2
+    },
+    {
+      "id": 55,
+      "spanish": "seguir",
+      "english": "to follow / to continue",
+      "conjugation": "sigo, sigues, sigue, seguimos, seguís, siguen",
+      "example": "Sigo estudiando cada día.",
+      "example_en": "I continue studying every day.",
+      "difficulty": 2
+    },
+    {
+      "id": 56,
+      "spanish": "jugar",
+      "english": "to play",
+      "conjugation": "juego, juegas, juega, jugamos, jugáis, juegan",
+      "example": "Juego al fútbol los sábados.",
+      "example_en": "I play soccer on Saturdays.",
+      "difficulty": 2
+    },
+    {
+      "id": 57,
+      "spanish": "mostrar",
+      "english": "to show",
+      "conjugation": "muestro, muestras, muestra, mostramos, mostráis, muestran",
+      "example": "Te muestro mis fotos de vacaciones.",
+      "example_en": "I'll show you my vacation photos.",
+      "difficulty": 2
+    },
+    {
+      "id": 58,
+      "spanish": "recordar",
+      "english": "to remember",
+      "conjugation": "recuerdo, recuerdas, recuerda, recordamos, recordáis, recuerdan",
+      "example": "Recuerdo nuestro primer encuentro.",
+      "example_en": "I remember our first meeting.",
+      "difficulty": 2
+    },
+    {
+      "id": 59,
+      "spanish": "contar",
+      "english": "to count / to tell",
+      "conjugation": "cuento, cuentas, cuenta, contamos, contáis, cuentan",
+      "example": "Te cuento una historia interesante.",
+      "example_en": "I'll tell you an interesting story.",
+      "difficulty": 2
+    },
+    {
+      "id": 60,
+      "spanish": "soñar",
+      "english": "to dream",
+      "conjugation": "sueño, sueñas, sueña, soñamos, soñáis, sueñan",
+      "example": "Sueño con viajar por el mundo.",
+      "example_en": "I dream of traveling the world.",
+      "difficulty": 2
+    },
+    {
+      "id": 61,
+      "spanish": "ser",
+      "english": "to be (permanent)",
+      "conjugation": "soy, eres, es, somos, sois, son",
+      "example": "Soy profesora de español.",
+      "example_en": "I am a Spanish teacher.",
+      "difficulty": 2
+    },
+    {
+      "id": 62,
+      "spanish": "estar",
+      "english": "to be (temporary/location)",
+      "conjugation": "estoy, estás, está, estamos, estáis, están",
+      "example": "Estoy muy feliz hoy.",
+      "example_en": "I am very happy today.",
+      "difficulty": 2
+    },
+    {
+      "id": 63,
+      "spanish": "tener",
+      "english": "to have",
+      "conjugation": "tengo, tienes, tiene, tenemos, tenéis, tienen",
+      "example": "Tengo dos hermanos mayores.",
+      "example_en": "I have two older brothers.",
+      "difficulty": 2
+    },
+    {
+      "id": 64,
+      "spanish": "hacer",
+      "english": "to do / to make",
+      "conjugation": "hago, haces, hace, hacemos, hacéis, hacen",
+      "example": "Hago ejercicio cada mañana.",
+      "example_en": "I exercise every morning.",
+      "difficulty": 2
+    },
+    {
+      "id": 65,
+      "spanish": "ir",
+      "english": "to go",
+      "conjugation": "voy, vas, va, vamos, vais, van",
+      "example": "Voy al gimnasio tres veces por semana.",
+      "example_en": "I go to the gym three times a week.",
+      "difficulty": 2
+    },
+    {
+      "id": 66,
+      "spanish": "ver",
+      "english": "to see",
+      "conjugation": "veo, ves, ve, vemos, veis, ven",
+      "example": "Veo una película cada fin de semana.",
+      "example_en": "I watch a movie every weekend.",
+      "difficulty": 2
+    },
+    {
+      "id": 67,
+      "spanish": "dar",
+      "english": "to give",
+      "conjugation": "doy, das, da, damos, dais, dan",
+      "example": "Doy clases de inglés los martes.",
+      "example_en": "I teach English classes on Tuesdays.",
+      "difficulty": 2
+    },
+    {
+      "id": 68,
+      "spanish": "saber",
+      "english": "to know (facts)",
+      "conjugation": "sé, sabes, sabe, sabemos, sabéis, saben",
+      "example": "Sé hablar tres idiomas.",
+      "example_en": "I know how to speak three languages.",
+      "difficulty": 2
+    },
+    {
+      "id": 69,
+      "spanish": "conocer",
+      "english": "to know (people/places)",
+      "conjugation": "conozco, conoces, conoce, conocemos, conocéis, conocen",
+      "example": "Conozco bien la ciudad de Barcelona.",
+      "example_en": "I know the city of Barcelona well.",
+      "difficulty": 2
+    },
+    {
+      "id": 70,
+      "spanish": "decir",
+      "english": "to say / to tell",
+      "conjugation": "digo, dices, dice, decimos, decís, dicen",
+      "example": "Siempre digo la verdad.",
+      "example_en": "I always tell the truth.",
+      "difficulty": 3
+    },
+    {
+      "id": 71,
+      "spanish": "venir",
+      "english": "to come",
+      "conjugation": "vengo, vienes, viene, venimos, venís, vienen",
+      "example": "Vengo de una familia grande.",
+      "example_en": "I come from a large family.",
+      "difficulty": 3
+    },
+    {
+      "id": 72,
+      "spanish": "poner",
+      "english": "to put",
+      "conjugation": "pongo, pones, pone, ponemos, ponéis, ponen",
+      "example": "Pongo la mesa para la cena.",
+      "example_en": "I set the table for dinner.",
+      "difficulty": 3
+    },
+    {
+      "id": 73,
+      "spanish": "salir",
+      "english": "to leave / to go out",
+      "conjugation": "salgo, sales, sale, salimos, salís, salen",
+      "example": "Salgo de casa a las siete.",
+      "example_en": "I leave home at seven.",
+      "difficulty": 3
+    },
+    {
+      "id": 74,
+      "spanish": "traer",
+      "english": "to bring",
+      "conjugation": "traigo, traes, trae, traemos, traéis, traen",
+      "example": "Traigo el almuerzo al trabajo.",
+      "example_en": "I bring lunch to work.",
+      "difficulty": 3
+    },
+    {
+      "id": 75,
+      "spanish": "caer",
+      "english": "to fall",
+      "conjugation": "caigo, caes, cae, caemos, caéis, caen",
+      "example": "Las hojas caen en otoño.",
+      "example_en": "The leaves fall in autumn.",
+      "difficulty": 3
+    },
+    {
+      "id": 76,
+      "spanish": "oír",
+      "english": "to hear",
+      "conjugation": "oigo, oyes, oye, oímos, oís, oyen",
+      "example": "Oigo música desde mi cuarto.",
+      "example_en": "I hear music from my room.",
+      "difficulty": 3
+    },
+    {
+      "id": 77,
+      "spanish": "construir",
+      "english": "to build",
+      "conjugation": "construyo, construyes, construye, construimos, construís, construyen",
+      "example": "Construyen un edificio nuevo en el centro.",
+      "example_en": "They're building a new building downtown.",
+      "difficulty": 3
+    },
+    {
+      "id": 78,
+      "spanish": "conducir",
+      "english": "to drive",
+      "conjugation": "conduzco, conduces, conduce, conducimos, conducís, conducen",
+      "example": "Conduzco al trabajo cada día.",
+      "example_en": "I drive to work every day.",
+      "difficulty": 3
+    },
+    {
+      "id": 79,
+      "spanish": "producir",
+      "english": "to produce",
+      "conjugation": "produzco, produces, produce, producimos, producís, producen",
+      "example": "Esta fábrica produce coches.",
+      "example_en": "This factory produces cars.",
+      "difficulty": 3
+    },
+    {
+      "id": 80,
+      "spanish": "traducir",
+      "english": "to translate",
+      "conjugation": "traduzco, traduces, traduce, traducimos, traducís, traducen",
+      "example": "Traduzco documentos del inglés al español.",
+      "example_en": "I translate documents from English to Spanish.",
+      "difficulty": 3
+    },
+    {
+      "id": 81,
+      "spanish": "parecer",
+      "english": "to seem / to appear",
+      "conjugation": "parezco, pareces, parece, parecemos, parecéis, parecen",
+      "example": "Pareces cansado hoy.",
+      "example_en": "You seem tired today.",
+      "difficulty": 3
+    },
+    {
+      "id": 82,
+      "spanish": "ofrecer",
+      "english": "to offer",
+      "conjugation": "ofrezco, ofreces, ofrece, ofrecemos, ofrecéis, ofrecen",
+      "example": "Ofrezco mi ayuda siempre que puedo.",
+      "example_en": "I offer my help whenever I can.",
+      "difficulty": 3
+    },
+    {
+      "id": 83,
+      "spanish": "crecer",
+      "english": "to grow",
+      "conjugation": "crezco, creces, crece, crecemos, crecéis, crecen",
+      "example": "Los niños crecen muy rápido.",
+      "example_en": "Children grow very fast.",
+      "difficulty": 3
+    },
+    {
+      "id": 84,
+      "spanish": "merecer",
+      "english": "to deserve",
+      "conjugation": "merezco, mereces, merece, merecemos, merecéis, merecen",
+      "example": "Mereces unas buenas vacaciones.",
+      "example_en": "You deserve a good vacation.",
+      "difficulty": 3
+    },
+    {
+      "id": 85,
+      "spanish": "exigir",
+      "english": "to demand",
+      "conjugation": "exijo, exiges, exige, exigimos, exigís, exigen",
+      "example": "Exigimos mejores condiciones laborales.",
+      "example_en": "We demand better working conditions.",
+      "difficulty": 4
+    },
+    {
+      "id": 86,
+      "spanish": "dirigir",
+      "english": "to direct / to manage",
+      "conjugation": "dirijo, diriges, dirige, dirigimos, dirigís, dirigen",
+      "example": "Dirijo un equipo de diez personas.",
+      "example_en": "I manage a team of ten people.",
+      "difficulty": 4
+    },
+    {
+      "id": 87,
+      "spanish": "elegir",
+      "english": "to choose / to elect",
+      "conjugation": "elijo, eliges, elige, elegimos, elegís, eligen",
+      "example": "Elijo siempre la opción más saludable.",
+      "example_en": "I always choose the healthiest option.",
+      "difficulty": 4
+    },
+    {
+      "id": 88,
+      "spanish": "distinguir",
+      "english": "to distinguish",
+      "conjugation": "distingo, distingues, distingue, distinguimos, distinguís, distinguen",
+      "example": "No distingo los colores en la oscuridad.",
+      "example_en": "I can't distinguish colors in the dark.",
+      "difficulty": 4
+    },
+    {
+      "id": 89,
+      "spanish": "conseguir",
+      "english": "to get / to achieve",
+      "conjugation": "consigo, consigues, consigue, conseguimos, conseguís, consiguen",
+      "example": "Consigo mis objetivos con esfuerzo.",
+      "example_en": "I achieve my goals with effort.",
+      "difficulty": 4
+    },
+    {
+      "id": 90,
+      "spanish": "perseguir",
+      "english": "to pursue / to chase",
+      "conjugation": "persigo, persigues, persigue, perseguimos, perseguís, persiguen",
+      "example": "Persigo mis sueños sin rendirme.",
+      "example_en": "I pursue my dreams without giving up.",
+      "difficulty": 4
+    },
+    {
+      "id": 91,
+      "spanish": "despedir",
+      "english": "to say goodbye / to fire",
+      "conjugation": "despido, despides, despide, despedimos, despedís, despiden",
+      "example": "Me despido de mis colegas al final del día.",
+      "example_en": "I say goodbye to my colleagues at the end of the day.",
+      "difficulty": 4
+    },
+    {
+      "id": 92,
+      "spanish": "convertir",
+      "english": "to convert / to turn into",
+      "conjugation": "convierto, conviertes, convierte, convertimos, convertís, convierten",
+      "example": "Convierto euros a dólares para mi viaje.",
+      "example_en": "I convert euros to dollars for my trip.",
+      "difficulty": 4
+    },
+    {
+      "id": 93,
+      "spanish": "divertir",
+      "english": "to amuse / to entertain",
+      "conjugation": "divierto, diviertes, divierte, divertimos, divertís, divierten",
+      "example": "Me divierto mucho con mis amigos.",
+      "example_en": "I have a lot of fun with my friends.",
+      "difficulty": 4
+    },
+    {
+      "id": 94,
+      "spanish": "advertir",
+      "english": "to warn",
+      "conjugation": "advierto, adviertes, advierte, advertimos, advertís, advierten",
+      "example": "Te advierto que el camino es peligroso.",
+      "example_en": "I warn you that the road is dangerous.",
+      "difficulty": 4
+    },
+    {
+      "id": 95,
+      "spanish": "mentir",
+      "english": "to lie",
+      "conjugation": "miento, mientes, miente, mentimos, mentís, mienten",
+      "example": "Nunca miento a mis padres.",
+      "example_en": "I never lie to my parents.",
+      "difficulty": 4
+    },
+    {
+      "id": 96,
+      "spanish": "sugerir",
+      "english": "to suggest",
+      "conjugation": "sugiero, sugieres, sugiere, sugerimos, sugerís, sugieren",
+      "example": "Sugiero que vayamos al cine.",
+      "example_en": "I suggest that we go to the cinema.",
+      "difficulty": 4
+    },
+    {
+      "id": 97,
+      "spanish": "referir",
+      "english": "to refer",
+      "conjugation": "refiero, refieres, refiere, referimos, referís, refieren",
+      "example": "Me refiero al artículo que leíste ayer.",
+      "example_en": "I'm referring to the article you read yesterday.",
+      "difficulty": 4
+    },
+    {
+      "id": 98,
+      "spanish": "hervir",
+      "english": "to boil",
+      "conjugation": "hiervo, hierves, hierve, hervimos, hervís, hierven",
+      "example": "Hiervo agua para hacer té.",
+      "example_en": "I boil water to make tea.",
+      "difficulty": 4
+    },
+    {
+      "id": 99,
+      "spanish": "adquirir",
+      "english": "to acquire",
+      "conjugation": "adquiero, adquieres, adquiere, adquirimos, adquirís, adquieren",
+      "example": "Adquiero nuevas habilidades cada año.",
+      "example_en": "I acquire new skills every year.",
+      "difficulty": 4
+    },
+    {
+      "id": 100,
+      "spanish": "influir",
+      "english": "to influence",
+      "conjugation": "influyo, influyes, influye, influimos, influís, influyen",
+      "example": "La música influye en mi estado de ánimo.",
+      "example_en": "Music influences my mood.",
+      "difficulty": 5
+    },
+    {
+      "id": 101,
+      "spanish": "concluir",
+      "english": "to conclude",
+      "conjugation": "concluyo, concluyes, concluye, concluimos, concluís, concluyen",
+      "example": "Concluyo que necesitamos más información.",
+      "example_en": "I conclude that we need more information.",
+      "difficulty": 5
+    },
+    {
+      "id": 102,
+      "spanish": "excluir",
+      "english": "to exclude",
+      "conjugation": "excluyo, excluyes, excluye, excluimos, excluís, excluyen",
+      "example": "No excluyo ninguna posibilidad.",
+      "example_en": "I don't exclude any possibility.",
+      "difficulty": 5
+    },
+    {
+      "id": 103,
+      "spanish": "contribuir",
+      "english": "to contribute",
+      "conjugation": "contribuyo, contribuyes, contribuye, contribuimos, contribuís, contribuyen",
+      "example": "Contribuyo al proyecto con mis ideas.",
+      "example_en": "I contribute to the project with my ideas.",
+      "difficulty": 5
+    },
+    {
+      "id": 104,
+      "spanish": "sustituir",
+      "english": "to substitute / to replace",
+      "conjugation": "sustituyo, sustituyes, sustituye, sustituimos, sustituís, sustituyen",
+      "example": "Sustituyo el azúcar por miel.",
+      "example_en": "I replace sugar with honey.",
+      "difficulty": 5
+    },
+    {
+      "id": 105,
+      "spanish": "satisfacer",
+      "english": "to satisfy",
+      "conjugation": "satisfago, satisfaces, satisface, satisfacemos, satisfacéis, satisfacen",
+      "example": "Este trabajo satisface mis expectativas.",
+      "example_en": "This job satisfies my expectations.",
+      "difficulty": 5
+    },
+    {
+      "id": 106,
+      "spanish": "contradecir",
+      "english": "to contradict",
+      "conjugation": "contradigo, contradices, contradice, contradecimos, contradecís, contradicen",
+      "example": "No quiero contradecir tu opinión.",
+      "example_en": "I don't want to contradict your opinion.",
+      "difficulty": 5
+    },
+    {
+      "id": 107,
+      "spanish": "predecir",
+      "english": "to predict",
+      "conjugation": "predigo, predices, predice, predecimos, predecís, predicen",
+      "example": "Es difícil predecir el futuro.",
+      "example_en": "It's difficult to predict the future.",
+      "difficulty": 5
+    },
+    {
+      "id": 108,
+      "spanish": "bendecir",
+      "english": "to bless",
+      "conjugation": "bendigo, bendices, bendice, bendecimos, bendecís, bendicen",
+      "example": "El sacerdote bendice a los fieles.",
+      "example_en": "The priest blesses the faithful.",
+      "difficulty": 5
+    },
+    {
+      "id": 109,
+      "spanish": "maldecir",
+      "english": "to curse",
+      "conjugation": "maldigo, maldices, maldice, maldecimos, maldecís, maldicen",
+      "example": "No debes maldecir tu suerte.",
+      "example_en": "You shouldn't curse your luck.",
+      "difficulty": 5
+    },
+    {
+      "id": 110,
+      "spanish": "intervenir",
+      "english": "to intervene",
+      "conjugation": "intervengo, intervienes, interviene, intervenimos, intervenís, intervienen",
+      "example": "Intervengo solo cuando es necesario.",
+      "example_en": "I intervene only when necessary.",
+      "difficulty": 5
+    },
+    {
+      "id": 111,
+      "spanish": "detener",
+      "english": "to stop / to detain",
+      "conjugation": "detengo, detienes, detiene, detenemos, detenéis, detienen",
+      "example": "La policía detiene al sospechoso.",
+      "example_en": "The police detain the suspect.",
+      "difficulty": 5
+    },
+    {
+      "id": 112,
+      "spanish": "mantener",
+      "english": "to maintain",
+      "conjugation": "mantengo, mantienes, mantiene, mantenemos, mantenéis, mantienen",
+      "example": "Mantengo mi casa siempre limpia.",
+      "example_en": "I keep my house always clean.",
+      "difficulty": 5
+    },
+    {
+      "id": 113,
+      "spanish": "retener",
+      "english": "to retain / to hold",
+      "conjugation": "retengo, retienes, retiene, retenemos, retenéis, retienen",
+      "example": "Retengo la información importante.",
+      "example_en": "I retain important information.",
+      "difficulty": 5
+    },
+    {
+      "id": 114,
+      "spanish": "obtener",
+      "english": "to obtain / to get",
+      "conjugation": "obtengo, obtienes, obtiene, obtenemos, obtenéis, obtienen",
+      "example": "Obtengo buenos resultados con esfuerzo.",
+      "example_en": "I get good results with effort.",
+      "difficulty": 5
+    },
+    {
+      "id": 115,
+      "spanish": "suponer",
+      "english": "to suppose / to assume",
+      "conjugation": "supongo, supones, supone, suponemos, suponéis, suponen",
+      "example": "Supongo que llegarás tarde.",
+      "example_en": "I suppose you'll arrive late.",
+      "difficulty": 5
+    },
+    {
+      "id": 116,
+      "spanish": "componer",
+      "english": "to compose",
+      "conjugation": "compongo, compones, compone, componemos, componéis, componen",
+      "example": "Compongo música en mi tiempo libre.",
+      "example_en": "I compose music in my free time.",
+      "difficulty": 5
+    },
+    {
+      "id": 117,
+      "spanish": "proponer",
+      "english": "to propose",
+      "conjugation": "propongo, propones, propone, proponemos, proponéis, proponen",
+      "example": "Propongo una nueva solución al problema.",
+      "example_en": "I propose a new solution to the problem.",
+      "difficulty": 5
+    },
+    {
+      "id": 118,
+      "spanish": "oponer",
+      "english": "to oppose",
+      "conjugation": "opongo, opones, opone, oponemos, oponéis, oponen",
+      "example": "Me opongo a esa decisión injusta.",
+      "example_en": "I oppose that unfair decision.",
+      "difficulty": 5
+    },
+    {
+      "id": 119,
+      "spanish": "disponer",
+      "english": "to arrange / to have available",
+      "conjugation": "dispongo, dispones, dispone, disponemos, disponéis, disponen",
+      "example": "Dispongo de poco tiempo libre.",
+      "example_en": "I have little free time available.",
+      "difficulty": 5
+    },
+    {
+      "id": 120,
+      "spanish": "imponer",
+      "english": "to impose",
+      "conjugation": "impongo, impones, impone, imponemos, imponéis, imponen",
+      "example": "El gobierno impone nuevas regulaciones.",
+      "example_en": "The government imposes new regulations.",
+      "difficulty": 5
+    }
+  ]
+}
