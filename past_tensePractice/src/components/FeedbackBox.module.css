@@ -1,0 +1,129 @@
+.box {
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  padding: 22px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  animation: fadeIn 0.2s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.allCorrect {
+  background: var(--green-dim);
+  border-color: var(--green);
+}
+
+.hasError {
+  background: var(--bg2);
+  border-color: var(--border);
+}
+
+.resultBadge {
+  font-size: 1.15rem;
+  font-weight: 800;
+}
+
+.correct { color: var(--green); }
+.incorrect { color: var(--red); }
+
+.grid {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.itemLabel {
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-dim);
+}
+
+.itemRow {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.9rem;
+  color: var(--text);
+  flex-wrap: wrap;
+}
+
+.ok { color: var(--green); font-weight: 700; font-size: 1rem; }
+.err { color: var(--red); font-weight: 700; font-size: 1rem; }
+
+.correctWord {
+  color: var(--green);
+  font-family: var(--mono);
+  font-size: 1.05em;
+}
+
+.wrongWord {
+  color: var(--red);
+  font-family: var(--mono);
+  font-size: 1.05em;
+  text-decoration: line-through;
+}
+
+.why {
+  background: rgba(255,255,255,0.03);
+  border-radius: var(--radius-sm);
+  padding: 10px 14px;
+  border-left: 3px solid var(--accent);
+}
+
+.whyText {
+  font-size: 0.9rem;
+  color: var(--text);
+  line-height: 1.5;
+}
+
+.timeline {
+  background: rgba(0,0,0,0.25);
+  border-radius: var(--radius-sm);
+  padding: 10px 14px;
+}
+
+.timelineText {
+  font-family: var(--mono);
+  font-size: 0.85rem;
+  color: var(--accent);
+  white-space: pre-wrap;
+}
+
+.nextBtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  background: var(--accent);
+  color: #fff;
+  border-radius: var(--radius-sm);
+  padding: 12px 28px;
+  font-size: 1rem;
+  font-weight: 700;
+  transition: all 0.15s;
+  align-self: flex-end;
+}
+
+.nextBtn:hover {
+  background: var(--accent-dim);
+  transform: translateY(-1px);
+}
+
+.enterHint {
+  font-size: 0.72rem;
+  color: rgba(255,255,255,0.6);
+  font-family: var(--mono);
+}
